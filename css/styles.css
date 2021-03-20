@@ -7414,3 +7414,24 @@ form .row:first-child .floating-label-form-group {
 
 .btn-social {
   margin-bottom: 0.5rem; }
+
+
+.link-custom{
+  color: white;
+  font-size: 1.2rem;
+  }
+  .link-custom a{
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  .link-custom a:visited{
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  .link-custom a:hover{
+    color: wheat;
+    background-color: transparent;
+    text-decoration: underline;
+  }
